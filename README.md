@@ -1,3 +1,4 @@
+*This repository is a mirror of the [component](http://component.io) module [btd/moco](http://github.com/btd/moco). It has been modified to work with NPM+Browserify. You can install it using the command `npm install npmcomponent/btd-moco`. Please do not open issues or send pull requests against this repo. If you have issues with this repo, report it to [npmcomponent](https://github.com/airportyh/npmcomponent).*
 # Moco
 
 It is a small library that create object-like and array-like models and collections. I do not want to use anything that already in es5. So this will work only in modern browsers (IE8 100% not supported).
